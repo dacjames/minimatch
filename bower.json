@@ -13,6 +13,7 @@
     "js",
     "node"
   ],
+  "main": "minimatch.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
